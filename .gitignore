@@ -1,0 +1,5 @@
+.settings
+.cproject
+.project
+stm32_bode_table Debug.launch
+Debug
